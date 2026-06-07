@@ -22,3 +22,6 @@ This is a console-based cinema ticket booking system written in C++. The program
 1. Open the project in Visual Studio.
 2. Build and run the program.
 3. Follow the on-screen instructions to book tickets.
+## Screenshot
+
+![Cinema Ticket Booking System](screenshot.png)
