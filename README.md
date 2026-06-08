@@ -24,4 +24,4 @@ This is a console-based cinema ticket booking system written in C++. The program
 3. Follow the on-screen instructions to book tickets.
 ## Screenshot
 
-![Cinema Ticket Booking System](screenshot.png)
+![لقطة شاشة 2026-06-08 022439](screenshot.png)
